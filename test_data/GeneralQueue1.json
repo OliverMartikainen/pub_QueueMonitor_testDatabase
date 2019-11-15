@@ -1,0 +1,44 @@
+[
+    {
+        "ServiceId": 245,
+        "ServiceName": "Eplaceholdernameislongen45y",
+        "ContactType": "EMAIL",
+        "QueueLength": 11,
+        "MaxQueueTime": 1200
+    },
+    {
+        "ServiceId": 303,
+        "ServiceName": "Eplaceholderna35i",
+        "ContactType": "EMAIL",
+        "QueueLength": 9,
+        "MaxQueueTime": 1100
+    },
+    {
+        "ServiceId": 363,
+        "ServiceName": "Hplaceholderna35i",
+        "ContactType": "PBX",
+        "QueueLength": 1,
+        "MaxQueueTime": 706
+    },
+    {
+        "ServiceId": 179,
+        "ServiceName": "Apla25a",
+        "ContactType": "EMAIL",
+        "QueueLength": 1,
+        "MaxQueueTime": 154
+    },
+    {
+        "ServiceId": 300,
+        "ServiceName": "Vplaceholdernam36i",
+        "ContactType": "PBX",
+        "QueueLength": 1,
+        "MaxQueueTime": 56
+    },
+    {
+        "ServiceId": 300,
+        "ServiceName": "Vplaceholdernam36i",
+        "ContactType": "EMAIL",
+        "QueueLength": 1,
+        "MaxQueueTime": 54
+    }
+]

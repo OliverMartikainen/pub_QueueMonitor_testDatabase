@@ -1,0 +1,625 @@
+[
+    {
+        "AgentId": 3112122,
+        "AgentName": "Tplaceholderni",
+        "Team": "TEAM O9T-",
+        "Reason": "Sisäänkirjaus",
+        "Duration": 18414
+    },
+    {
+        "AgentId": 3112123,
+        "AgentName": "Vplaceholdernaml",
+        "Team": "TEAM O9T-",
+        "Reason": "Sisäänkirjaus",
+        "Duration": 18480
+    },
+    {
+        "AgentId": 3112125,
+        "AgentName": "Eplaceholder",
+        "Team": "TEAM O9T-",
+        "Reason": "Sisäänkirjaus",
+        "Duration": 18467
+    },
+    {
+        "AgentId": 3112128,
+        "AgentName": "Tplaceholderni",
+        "Team": "TEAM O5H-",
+        "Reason": "RUOKATUNTI",
+        "Duration": 3217
+    },
+    {
+        "AgentId": 3112129,
+        "AgentName": "Hplaceholdernao",
+        "Team": "TEAM O5H-",
+        "Reason": "Sisäänkirjaus",
+        "Duration": 16191
+    },
+    {
+        "AgentId": 3112132,
+        "AgentName": "Kplaceholderne",
+        "Team": "TEAM O9T-",
+        "Reason": "Sisäänkirjaus",
+        "Duration": 18386
+    },
+    {
+        "AgentId": 3112134,
+        "AgentName": "Jplaceholderni",
+        "Team": "TEAM O6E-",
+        "Reason": "Sisäänkirjaus",
+        "Duration": 18661
+    },
+    {
+        "AgentId": 3112139,
+        "AgentName": "Fplaceholdernt",
+        "Team": "TEAM H41L",
+        "Reason": "Sisäänkirjaus",
+        "Duration": 15721
+    },
+    {
+        "AgentId": 3112140,
+        "AgentName": "Jplaceholdernai",
+        "Team": "TEAM H41L",
+        "Reason": "<MEETING",
+        "Duration": 2340
+    },
+    {
+        "AgentId": 3112141,
+        "AgentName": "Kplaceholderns",
+        "Team": "TEAM H41L",
+        "Reason": "Sisäänkirjaus",
+        "Duration": 22071
+    },
+    {
+        "AgentId": 3112142,
+        "AgentName": "Kplaceholderni",
+        "Team": "TEAM H41L",
+        "Reason": "SÄHKÖPOSTI (Sisään)",
+        "Duration": 500
+    },
+    {
+        "AgentId": 3112143,
+        "AgentName": "Oplaceholdel",
+        "Team": "TEAM H41L",
+        "Reason": "MEETING",
+        "Duration": 2013
+    },
+    {
+        "AgentId": 3112144,
+        "AgentName": "Pplaceholdernao",
+        "Team": "TEAM H42L",
+        "Reason": "TRAINING",
+        "Duration": 1496
+    },
+    {
+        "AgentId": 3112146,
+        "AgentName": "Splaceholderno",
+        "Team": "TEAM H41L",
+        "Reason": "RUOKATUNTI",
+        "Duration": 3260
+    },
+    {
+        "AgentId": 3112147,
+        "AgentName": "Tplaceholdea",
+        "Team": "TEAM H41L",
+        "Reason": "MEETING",
+        "Duration": 2206
+    },
+    {
+        "AgentId": 3112149,
+        "AgentName": "Vplaceholdernaml",
+        "Team": "TEAM H41L",
+        "Reason": "Sisäänkirjaus",
+        "Duration": 23616
+    },
+    {
+        "AgentId": 3112150,
+        "AgentName": "Vplaceholdernameik",
+        "Team": "TEAM H41L",
+        "Reason": "IC WORK",
+        "Duration": 21688
+    },
+    {
+        "AgentId": 3112151,
+        "AgentName": "Aplaceholderu",
+        "Team": "TEAM H42L",
+        "Reason": "RUOKATUNTI",
+        "Duration": 702
+    },
+    {
+        "AgentId": 3112153,
+        "AgentName": "Hplaceholderno",
+        "Team": "TEAM H42L",
+        "Reason": "RUOKATUNTI",
+        "Duration": 46
+    },
+    {
+        "AgentId": 3112116,
+        "AgentName": "Rplaceholdernamn",
+        "Team": "TEAM A5im",
+        "Reason": "Sisäänkirjaus",
+        "Duration": 19158
+    },
+    {
+        "AgentId": 3112201,
+        "AgentName": "Aplaceholdernameislonl",
+        "Team": "TEAM M6in",
+        "Reason": "LUNCH",
+        "Duration": 2304
+    },
+    {
+        "AgentId": 3112205,
+        "AgentName": "Mplaceholderny",
+        "Team": "TEAM M6in",
+        "Reason": "Login",
+        "Duration": 474
+    },
+    {
+        "AgentId": 3112208,
+        "AgentName": "Rplaceholdernames",
+        "Team": "TEAM M6in",
+        "Reason": "Login",
+        "Duration": 13991
+    },
+    {
+        "AgentId": 3112215,
+        "AgentName": "Dplaceholdernameislongenoi",
+        "Team": "TEAM M6in",
+        "Reason": "Login",
+        "Duration": 672
+    },
+    {
+        "AgentId": 3112217,
+        "AgentName": "Splaceholdernameisloe",
+        "Team": "TEAM M6in",
+        "Reason": "LUNCH",
+        "Duration": 58
+    },
+    {
+        "AgentId": 3112218,
+        "AgentName": "Dplaceholdernameia",
+        "Team": "TEAM M6in",
+        "Reason": "OTHER WORK",
+        "Duration": 423
+    },
+    {
+        "AgentId": 3112224,
+        "AgentName": "Aplaceholdernamer",
+        "Team": "TEAM M6in",
+        "Reason": "CALL (In)",
+        "Duration": 1674
+    },
+    {
+        "AgentId": 3112225,
+        "AgentName": "Fplaceholdernameim",
+        "Team": "TEAM M6in",
+        "Reason": "Login",
+        "Duration": 22269
+    },
+    {
+        "AgentId": 3112226,
+        "AgentName": "Kplaceholdernameislongel",
+        "Team": "TEAM M6in",
+        "Reason": "Login",
+        "Duration": 21991
+    },
+    {
+        "AgentId": 3112227,
+        "AgentName": "Splaceholderni",
+        "Team": "TEAM M6in",
+        "Reason": "LUNCH",
+        "Duration": 565
+    },
+    {
+        "AgentId": 3112231,
+        "AgentName": "Mplaceholdernameislongee",
+        "Team": "TEAM M6in",
+        "Reason": "WRAPUP TIME",
+        "Duration": 331
+    },
+    {
+        "AgentId": 3112121,
+        "AgentName": "Kplaceholdernai",
+        "Team": "TEAM O9T-",
+        "Reason": "Sisäänkirjaus",
+        "Duration": 1424
+    },
+    {
+        "AgentId": 3112130,
+        "AgentName": "Kplaceholdernameislongej",
+        "Team": "TEAM O5H-",
+        "Reason": "RUOKATUNTI",
+        "Duration": 2073
+    },
+    {
+        "AgentId": 3112131,
+        "AgentName": "Vplaceholdernan",
+        "Team": "TEAM O6E-",
+        "Reason": "Sisäänkirjaus",
+        "Duration": 2749
+    },
+    {
+        "AgentId": 3112182,
+        "AgentName": "Tplaceholderni",
+        "Team": "TEAM H41I",
+        "Reason": "RUOKATUNTI",
+        "Duration": 413
+    },
+    {
+        "AgentId": 3112183,
+        "AgentName": "Vplaceholderna",
+        "Team": "TEAM H41I",
+        "Reason": "PUHELU (Sisään)",
+        "Duration": 113
+    },
+    {
+        "AgentId": 3112233,
+        "AgentName": "Oplaceholdernn",
+        "Team": "TEAM M6in",
+        "Reason": "LUNCH",
+        "Duration": 1941
+    },
+    {
+        "AgentId": 3112234,
+        "AgentName": "Rplaceholdernaml",
+        "Team": "TEAM Y3undefinedT",
+        "Reason": "CALL (In)",
+        "Duration": 1217
+    },
+    {
+        "AgentId": 3112235,
+        "AgentName": "Tplaceholdernamein",
+        "Team": "TEAM M6in",
+        "Reason": "LUNCH",
+        "Duration": 1950
+    },
+    {
+        "AgentId": 3112236,
+        "AgentName": "Tplaceholdernao",
+        "Team": "TEAM M6in",
+        "Reason": "Login",
+        "Duration": 10800
+    },
+    {
+        "AgentId": 3112237,
+        "AgentName": "Vplaceholdernt",
+        "Team": "TEAM Y3undefinedT",
+        "Reason": "Login",
+        "Duration": 18583
+    },
+    {
+        "AgentId": 3112238,
+        "AgentName": "Kplaceholdernas",
+        "Team": "TEAM M6in",
+        "Reason": "BUSY (chat)",
+        "Duration": 5795
+    },
+    {
+        "AgentId": 3112239,
+        "AgentName": "Vplaceholdernameislongenoughp",
+        "Team": "TEAM M6in",
+        "Reason": "LUNCH",
+        "Duration": 2296
+    },
+    {
+        "AgentId": 3112240,
+        "AgentName": "Nplaceholderne",
+        "Team": "TEAM M6in",
+        "Reason": "WRAPUP TIME",
+        "Duration": 1062
+    },
+    {
+        "AgentId": 3112241,
+        "AgentName": "Kplaceholdernn",
+        "Team": "TEAM P2undefinedundefined",
+        "Reason": "Login",
+        "Duration": 19358
+    },
+    {
+        "AgentId": 3112242,
+        "AgentName": "Mplaceholderi",
+        "Team": "TEAM P2undefinedundefined",
+        "Reason": "Login",
+        "Duration": 15330
+    },
+    {
+        "AgentId": 3112243,
+        "AgentName": "Kplaceholdernameise",
+        "Team": "TEAM P2undefinedundefined",
+        "Reason": "Login",
+        "Duration": 14282
+    },
+    {
+        "AgentId": 3112252,
+        "AgentName": "Iplaceholdernn",
+        "Team": "TEAM C2undefinedundefined",
+        "Reason": "Sisäänkirjaus",
+        "Duration": 22150
+    },
+    {
+        "AgentId": 3112254,
+        "AgentName": "Kplaceholdernak",
+        "Team": "TEAM C2undefinedundefined",
+        "Reason": "MONITORING",
+        "Duration": 389
+    },
+    {
+        "AgentId": 3112255,
+        "AgentName": "Kplaceholdernap",
+        "Team": "TEAM C2undefinedundefined",
+        "Reason": "Sisäänkirjaus",
+        "Duration": 20799
+    },
+    {
+        "AgentId": 3112258,
+        "AgentName": "Nplaceholderna",
+        "Team": "TEAM C2undefinedundefined",
+        "Reason": "Sisäänkirjaus",
+        "Duration": 22880
+    },
+    {
+        "AgentId": 3112245,
+        "AgentName": "Mplaceholderna",
+        "Team": "TEAM P2undefinedundefined",
+        "Reason": "LUNCH",
+        "Duration": 494
+    },
+    {
+        "AgentId": 3112283,
+        "AgentName": "Nplaceholder",
+        "Team": "TEAM I4TI",
+        "Reason": "Sisäänkirjaus",
+        "Duration": 19321
+    },
+    {
+        "AgentId": 3112286,
+        "AgentName": "Splaceholdernameislongenought",
+        "Team": "TEAM Y3undefinedT",
+        "Reason": "PAUSE",
+        "Duration": 144
+    },
+    {
+        "AgentId": 3112288,
+        "AgentName": "Pplaceholdernameisloo",
+        "Team": "TEAM Y3undefinedT",
+        "Reason": "WRAPUP TIME",
+        "Duration": 98
+    },
+    {
+        "AgentId": 3112289,
+        "AgentName": "Pplaceholdernameb",
+        "Team": "TEAM Y3undefinedT",
+        "Reason": "PAUSE",
+        "Duration": 141
+    },
+    {
+        "AgentId": 3112290,
+        "AgentName": "Kplaceholdernamem",
+        "Team": "TEAM Y3undefinedT",
+        "Reason": "Login",
+        "Duration": 15277
+    },
+    {
+        "AgentId": 3112292,
+        "AgentName": "Cplaceholdernameisli",
+        "Team": "TEAM Y3undefinedT",
+        "Reason": "Login",
+        "Duration": 14343
+    },
+    {
+        "AgentId": 3112293,
+        "AgentName": "Eplaceholdernameislongenoe",
+        "Team": "TEAM M6in",
+        "Reason": "LOGGING IN",
+        "Duration": 5757
+    },
+    {
+        "AgentId": 3112294,
+        "AgentName": "Tplaceholdernamr",
+        "Team": "TEAM M6in",
+        "Reason": "LOGGING IN",
+        "Duration": 36
+    },
+    {
+        "AgentId": 3112300,
+        "AgentName": "Splaceholdernn",
+        "Team": "TEAM H42L",
+        "Reason": "TEHTÄVÄ (Sisään)",
+        "Duration": 2055
+    },
+    {
+        "AgentId": 3112156,
+        "AgentName": "Lplaceholdernaa",
+        "Team": "TEAM H42L",
+        "Reason": "MEETING",
+        "Duration": 994
+    },
+    {
+        "AgentId": 3112158,
+        "AgentName": "Rplaceholdera",
+        "Team": "TEAM H42L",
+        "Reason": "TAUKO",
+        "Duration": 970
+    },
+    {
+        "AgentId": 3112160,
+        "AgentName": "Tplaceholderni",
+        "Team": "TEAM H42L",
+        "Reason": "PUHELU (Sisään)",
+        "Duration": 250
+    },
+    {
+        "AgentId": 3112163,
+        "AgentName": "Tplaceholdeo",
+        "Team": "TEAM I4TI",
+        "Reason": "RUOKATUNTI",
+        "Duration": 1619
+    },
+    {
+        "AgentId": 3112164,
+        "AgentName": "Lplaceholdernameik",
+        "Team": "TEAM I4TI",
+        "Reason": "VARATTU (BIo)",
+        "Duration": 303
+    },
+    {
+        "AgentId": 3112167,
+        "AgentName": "Aplaceholdo",
+        "Team": "TEAM H41I",
+        "Reason": "VARATTU (Sierra)",
+        "Duration": 649
+    },
+    {
+        "AgentId": 3112169,
+        "AgentName": "Iplaceholdere",
+        "Team": "TEAM H41I",
+        "Reason": "VARATTU (kirjaus)",
+        "Duration": 360
+    },
+    {
+        "AgentId": 3112170,
+        "AgentName": "Jplaceholdernai",
+        "Team": "TEAM H41I",
+        "Reason": "PUHELU (Sisään)",
+        "Duration": 597
+    },
+    {
+        "AgentId": 3112172,
+        "AgentName": "Kplaceholdernn",
+        "Team": "TEAM H41I",
+        "Reason": "VARATTU (kirjaus)",
+        "Duration": 495
+    },
+    {
+        "AgentId": 3112173,
+        "AgentName": "Kplaceholdernamein",
+        "Team": "TEAM H41I",
+        "Reason": "VARATTU (DNA)",
+        "Duration": 462
+    },
+    {
+        "AgentId": 3112177,
+        "AgentName": "Nplaceholdernameii",
+        "Team": "TEAM H41I",
+        "Reason": "PUHELU (Sisään)",
+        "Duration": 320
+    },
+    {
+        "AgentId": 3112178,
+        "AgentName": "Rplaceholdea",
+        "Team": "TEAM H41I",
+        "Reason": "RUOKATUNTI",
+        "Duration": 579
+    },
+    {
+        "AgentId": 3112179,
+        "AgentName": "Splaceholdernae",
+        "Team": "TEAM H41I",
+        "Reason": "TAUKO",
+        "Duration": 167
+    },
+    {
+        "AgentId": 3112181,
+        "AgentName": "Tplaceholdernameisb",
+        "Team": "TEAM H41I",
+        "Reason": "RUOKATUNTI",
+        "Duration": 391
+    },
+    {
+        "AgentId": 3112185,
+        "AgentName": "Hplaceholdernai",
+        "Team": "TEAM H42I",
+        "Reason": "VARATTU (CHAT)",
+        "Duration": 606
+    },
+    {
+        "AgentId": 3112188,
+        "AgentName": "Lplaceholderno",
+        "Team": "TEAM H42I",
+        "Reason": "<IC WORK",
+        "Duration": 252
+    },
+    {
+        "AgentId": 3112194,
+        "AgentName": "Nplaceholderi",
+        "Team": "TEAM H42I",
+        "Reason": "<RUOKATUNTI",
+        "Duration": 1769
+    },
+    {
+        "AgentId": 3112330,
+        "AgentName": "Kplaceholderng",
+        "Team": "TEAM Y3undefinedT",
+        "Reason": "Login",
+        "Duration": 18922
+    },
+    {
+        "AgentId": 3112175,
+        "AgentName": "Lplaceholdernai",
+        "Team": "TEAM H41I",
+        "Reason": "RUOKATUNTI",
+        "Duration": 488
+    },
+    {
+        "AgentId": 3112334,
+        "AgentName": "Lplaceholdernameislongu",
+        "Team": "TEAM M6in",
+        "Reason": "BUSY",
+        "Duration": 1098
+    },
+    {
+        "AgentId": 3112326,
+        "AgentName": "Hplaceholdera",
+        "Team": "TEAM Y3undefinedT",
+        "Reason": "CALL (In)",
+        "Duration": 94
+    },
+    {
+        "AgentId": 3112327,
+        "AgentName": "Jplaceholdernameisls",
+        "Team": "TEAM Y3undefinedT",
+        "Reason": "Login",
+        "Duration": 19282
+    },
+    {
+        "AgentId": 3112332,
+        "AgentName": "Hplaceholdert",
+        "Team": "TEAM H42L",
+        "Reason": "TAUKO",
+        "Duration": 348
+    },
+    {
+        "AgentId": 3112333,
+        "AgentName": "Lplaceholdernau",
+        "Team": "TEAM H42L",
+        "Reason": "PUHELU (Sisään)",
+        "Duration": 976
+    },
+    {
+        "AgentId": 3112340,
+        "AgentName": "Tplaceholderni",
+        "Team": "TEAM O21P-",
+        "Reason": "RUOKATUNTI",
+        "Duration": 895
+    },
+    {
+        "AgentId": 3112341,
+        "AgentName": "Eplaceholderni",
+        "Team": "TEAM O21P-",
+        "Reason": "Sisäänkirjaus",
+        "Duration": 14495
+    },
+    {
+        "AgentId": 3112344,
+        "AgentName": "Tplaceholdernao",
+        "Team": "TEAM H42L",
+        "Reason": "RUOKATUNTI",
+        "Duration": 719
+    },
+    {
+        "AgentId": 3112348,
+        "AgentName": "Tplaceholderna",
+        "Team": "TEAM Y3undefinedT",
+        "Reason": "LUNCH",
+        "Duration": 6973
+    }
+]
