@@ -3,7 +3,8 @@ const app = express()
 const bodyParser = require('body-parser')
 //const port = process.env.PORT || 3010
 const http = require('http')
-const port = 3010
+
+const port = 3050
 const fs = require('fs')
 
 app.use(bodyParser.json())
@@ -50,10 +51,7 @@ app.post('/inboundreport', (req, res) => { //body-parser needed for this
 })
 
 
-//app.listen(port, () => console.log(`Listening to port ${port}`))
-const server = http.createServer(app) //difference to just app.listen???
-
+const server = http.createServer(app)
 server.listen(port, () => { console.log(`Test database server running from port ${port}`) })
-
 
 setInterval(() => countUpdater(), 6000)
