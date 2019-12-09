@@ -19,13 +19,13 @@ const countUpdater = () => {
 }
 
 const readTestData = (file) => {
-    //const data = JSON.parse(fs.readFileSync(`./raw_data/${file}.json`, 'utf8'))
     const data = JSON.parse(fs.readFileSync(`./test_data/${file}.json`, 'utf8'))
     console.log('GET ', file)
     return data
 }
 
 app.get('/', (request, resource) => {
+    console.log('fasfaf')
     resource.send('yes and no but maybe')
 })
 
