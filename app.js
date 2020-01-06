@@ -1,10 +1,9 @@
 const express = require('express')
 const app = express()
 const bodyParser = require('body-parser')
-//const port = process.env.PORT || 3010
+const port = process.env.PORT || 3050
 const http = require('http')
 
-const port = 3050
 const fs = require('fs')
 
 app.use(bodyParser.json())

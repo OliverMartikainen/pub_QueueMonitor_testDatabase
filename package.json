@@ -1,7 +1,7 @@
 {
-  "name": "cm_test_db",
+  "name": "queuemonitor_testdatabase",
   "version": "0.0.1",
-  "description": "Callmonitor test database",
+  "description": "Queuemonitor test database",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
